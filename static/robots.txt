@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blogfi.athenalarm.com/sitemap.xml
